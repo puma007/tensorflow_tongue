@@ -1,0 +1,7 @@
+#Fri Nov 03 14:15:01 CST 2017
+base.0=/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3f4bae9e58b069053fa028e1f613bb9ef7d71dcd
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7f4f2b2133c7049a076186de67c448bca78c5f9/classes.dex
+base.1=/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7f4f2b2133c7049a076186de67c448bca78c5f9
+file.0=/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3f4bae9e58b069053fa028e1f613bb9ef7d71dcd/classes.dex

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hufox/.android/build-cache/3278a09dc055d6e55604d978b9eb0e82ef3a732e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="91bca4fa901f5ab972075e688f56ae98af48c2de">
+        <dex dex="/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10/classes_852e4813c1f06122798804003338dec948c56404/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a25183f85e47fbc987f996cb802659ee4973fad">
+        <dex dex="/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3f4bae9e58b069053fa028e1f613bb9ef7d71dcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/hufox/androidapp/tensorflow/examples/android/gradleBuild/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7f4f2b2133c7049a076186de67c448bca78c5f9/classes.dex" />
+    </item>
+
+</items>
